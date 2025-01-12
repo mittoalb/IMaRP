@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+IMaRP/__init__.py
+IMaRP/corrector.py
+IMaRP/dataio.py
+IMaRP/logger.py
+IMaRP/train.py
+IMaRP.egg-info/PKG-INFO
+IMaRP.egg-info/SOURCES.txt
+IMaRP.egg-info/dependency_links.txt
+IMaRP.egg-info/requires.txt
+IMaRP.egg-info/top_level.txt
+tests/__init__.py
+tests/test_corrector.py
+tests/test_io.py
+tests/test_train.py
